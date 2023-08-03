@@ -24,12 +24,10 @@ body{
 
 }
 
-.bot{
-
- 
-
+.imgbot img
+{
+    transform: rotate(90) ;
 }
-
 
 
 
