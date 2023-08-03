@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+body{
+
+    background-image: url("https://images4.alphacoders.com/107/thumb-1920-1070427.jpg");
+
+}
+
+
+.home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    height: 90vh;
+    margin: auto;
+    background: white;
+   
+
+}
+
+.bot{
+
+ 
+
+}
+
+
+
+
